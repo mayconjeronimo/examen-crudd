@@ -1,0 +1,5 @@
+﻿  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\joedd\Documents\visual\proyectos c++\examen\crudDB\Mysql\Mysql\estudiantes.h(111): error C4700: se utilizó la variable local 'q_estado' sin inicializar
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: error de generación de código
